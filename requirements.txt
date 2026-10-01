@@ -1,0 +1,11 @@
+# Dependencies identified in the notebook; versions are not pinned.
+# The historical notebook requires adaptation. See README.md.
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+scikit-learn
+keras-tuner
+tensorboard
+jupyterlab
